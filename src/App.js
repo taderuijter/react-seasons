@@ -1,6 +1,9 @@
+// React component
+import Seasons from "./components/Seasons";
+
 function App() {
   return (
-      <h1> React Seasons App </h1>
+      <Seasons />
   );
 }
 

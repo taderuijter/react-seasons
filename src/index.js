@@ -7,6 +7,9 @@ import 'react-app-polyfill/stable';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+// CSS for the app
+import './css/SeasonDisplay.css';
+
 // Main Component for the app
 import App from './App';
 import reportWebVitals from './reportWebVitals';
